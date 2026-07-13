@@ -1,0 +1,7 @@
+node_modules/
+android/
+.platforms/
+dist/
+build/
+*.apk
+*.aab
